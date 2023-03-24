@@ -1,4 +1,4 @@
-tensorflow==1.15.2
+tensorflow==2.11.1
 keras==2.3.1
 kapre==0.1.4
 librosa==0.7.2
